@@ -1,0 +1,14 @@
+//
+//  TMDBShared.xcconfig
+//  TMDBPreview
+//
+//  Created by Dejan Bekic on 9.9.23..
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+API_BASE_URL = api.themoviedb.org
+API_KEY = 95579e5acd342191bcaeb59742727c5f
+API_READ_ACCESS_TOKEN = eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI5NTU3OWU1YWNkMzQyMTkxYmNhZWI1OTc0MjcyN2M1ZiIsInN1YiI6IjY0ZmIyOTUxYWY1OGNiMGE2MDFkNjg5NCIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.8Wh3ZHhmN9wRwf4ZseKmPdHRCSjPn4NHVPRSlDMCi7A
+POSTER_BASE_URL = image.tmdb.org/t/p

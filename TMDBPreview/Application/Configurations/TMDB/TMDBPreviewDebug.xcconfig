@@ -1,0 +1,12 @@
+//
+//  TMDBDebug.xcconfig
+//  TMDBPreview
+//
+//  Created by Dejan Bekic on 9.9.23..
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+#include "TMDBPreview/Application/Configurations/TMDB/TMDBPreviewShared.xcconfig"
+#include "Pods/Target Support Files/Pods-TMDBPreview/Pods-TMDBPreview.debug.xcconfig"
