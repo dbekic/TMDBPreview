@@ -8,7 +8,7 @@
 
 ## Overview
 
-This is a test project developed for the needs of test assignment for Bragi.com
+This is a test project developed for the needs of test assignment for [Bragi](https://bragi.com).
 
 ### Stack
 
